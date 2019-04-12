@@ -15,9 +15,6 @@ namespace BlogsConsole.Models
         public int BlogId { get; set; }
         public Blog Blog { get; set; }
 
-        //public static implicit operator Post(Post v)
-        //{
-        //    throw new NotImplementedException();
-        //}
+        
     }
 }
